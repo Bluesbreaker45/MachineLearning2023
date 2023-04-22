@@ -133,3 +133,5 @@ dmypy.json
 
 # Vscode
 .vscode
+
+.ignored
