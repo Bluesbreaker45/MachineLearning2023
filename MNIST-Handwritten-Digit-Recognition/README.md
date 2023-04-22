@@ -1,5 +1,9 @@
 # 手写数字识别实验
 
+## 参考链接
+
+[Reference.](https://nextjournal.com/gkoehler/pytorch-mnist#preparing-the-dataset)
+
 ## 主要工具
 
 神经网络搭建与训练： `PyTorch`, `TorchVision.`
